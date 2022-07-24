@@ -1,3 +1,7 @@
+# Streaming app using React and Redux
+
+Based on [Modern React with Redux](https://www.udemy.com/course/react-redux/) course on [Udemy](https://www.udemy.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
